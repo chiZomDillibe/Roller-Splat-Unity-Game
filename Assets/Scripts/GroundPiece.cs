@@ -10,6 +10,8 @@ public class GroundPiece : MonoBehaviour
     {
         GetComponent<MeshRenderer>().material.color = color;
         isColored = true;
+
+        GameManager.Singleton.CheckComplete();
     }
 
 }
