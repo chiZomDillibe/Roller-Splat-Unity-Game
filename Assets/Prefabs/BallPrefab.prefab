@@ -130,3 +130,4 @@ MonoBehaviour:
   rb: {fileID: 2186754037508007818}
   speed: 15
   minSwipeRecognition: 500
+  jumpSound: {fileID: 8300000, guid: 0f7d0b7c3397f4dac91f20e8a77d2d57, type: 3}

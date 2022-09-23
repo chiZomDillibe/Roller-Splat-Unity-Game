@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BackgroundLevelTwo
+  m_Name: BackgroundLevelFour
   m_Shader: {fileID: 4800000, guid: 89ac9cd353138b94b8029ceb48766bf1, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -75,8 +75,8 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _BottomColor: {r: 1, g: 0.99607843, b: 0, a: 1}
+    - _BottomColor: {r: 0.34901962, g: 0.31764707, b: 0, a: 1}
     - _Color: {r: 0.7686275, g: 0.7686275, b: 0.7686275, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _TopColor: {r: 0.6415094, g: 0.027233878, b: 0.12264472, a: 1}
+    - _TopColor: {r: 0, g: 0.7169812, b: 0.38190958, a: 0.6117647}
   m_BuildTextureStacks: []

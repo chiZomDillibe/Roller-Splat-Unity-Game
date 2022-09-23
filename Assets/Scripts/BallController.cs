@@ -15,13 +15,17 @@ public class BallController : MonoBehaviour
     private Vector2 swipePosLastFrame;
     private Vector2 swipePosCurrentFrame;
     private Vector2 currentSwipe;
+    
 
     private Color solveColor;
 
     private void Start()
     {
+           
+        
         solveColor = Random.ColorHSV(0.5f, 1);
         GetComponent<MeshRenderer>().material.color = solveColor;
+    
     }
   
   private void FixedUpdate()
